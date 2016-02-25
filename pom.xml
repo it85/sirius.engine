@@ -25,6 +25,15 @@
 	  <version>4.12</version>
 	  <scope>test</scope>
 	</dependency>
+	
+	<dependency>
+      <groupId>com.sirius</groupId>
+      <artifactId>marketfeed</artifactId>
+      <version>1.0</version>
+      <scope>system</scope>
+      <systemPath>C:\Isaac\dev\workspace\marketfeed\target\marketfeed-1.0.jar</systemPath>
+    </dependency>
+	
   </dependencies>
   
 </project>
